@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Hi! I’m Fiyinfoluwa Osifala — a Computer Science student and aspiring Data Scienctist with a strong foundation in data analysis, model development, and software design. I’m passionate about building solutions that combine logic, creativity, and impact.
+Hi! I’m Fiyinfoluwa Osifala — a Computer Science student and aspiring Data Scientist with a strong foundation in data analysis, model development, and software design. I’m passionate about building solutions that combine logic, creativity, and impact.
 
 Currently, I’m exploring the intersection of artificial intelligence and real-world applications — from fraud detection systems to data-driven storytelling. I enjoy working on projects that challenge me to learn new tools, uncover insights from data, and write clean, efficient code.
 
