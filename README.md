@@ -1,38 +1,38 @@
-
 # Hi, I'm Fiyinfoluwa! 👋
 
-
 ## 🚀 About Me
-Hi! I’m Fiyinfoluwa Osifala — a Computer Science student and aspiring Data Scientist with a strong foundation in data analysis, model development, and software design. I’m passionate about building solutions that combine logic, creativity, and impact.
+Hi! I’m Fiyinfoluwa Osifala — a Computer Science student focused on **Data Analytics, Data Engineering, and Business Intelligence**.  
+I enjoy working with data to build structured data warehouses, perform advanced SQL analysis, and create dashboards that turn raw data into useful insights.
 
-Currently, I’m exploring the intersection of artificial intelligence and real-world applications — from fraud detection systems to data-driven storytelling. I enjoy working on projects that challenge me to learn new tools, uncover insights from data, and write clean, efficient code.
+My current interests include:
+- Data Warehousing (Medallion Architecture)
+- SQL Analytics & Window Functions
+- ETL Pipelines
+- Dimensional Modeling (Fact & Dimension tables)
+- Power BI Dashboards
+- Python for Data Analysis
+
+I like building projects that simulate real-world data workflows — from loading raw data, transforming it, analyzing it, and presenting results through reports and dashboards.
+
+Currently working on:
+- SQL Data Warehouse Project
+- SQL Analytics Project
+- Power BI Dashboard Project
+- Python Data Analysis projects
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Fiyinosif)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/fiyinfoluwa-osifala)
 
 
-
 ## 🛠 Skills
-1. Python
-
-2. Scikit-learn
-
-3. Pandas
-
-4. SQL (SQL Server)
-
-5. Power BI
-
-6. Machine Learning Algorithms (SVM, K-NN, Decision Trees, ANN)
-
-7. Data Preprocessing & Feature Engineering
-
-8. Exploratory Data Analysis (EDA)
-
+1. SQL (SQL Server, T-SQL)
+2. Python (Pandas, NumPy, Matplotlib)
+3. Power BI (DAX, Power Query)
+4. Data Warehousing
+5. ETL Pipelines
+6. Dimensional Modeling
+7. Exploratory Data Analysis (EDA)
+8. Window Functions & CTEs
 9. Git & GitHub
-
-10. Jupyter Notebook
-
-
+10. Excel
