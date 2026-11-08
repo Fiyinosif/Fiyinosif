@@ -34,4 +34,7 @@ I build end-to-end projects: RAG systems with real evaluation, SQL Server data w
 
 ## 🔗 Links
 
-[
+Linkedin : https://www.linkedin.com/in/fiyinfoluwa-osifala)
+Portfolio: https://fiyinosif.github.io/Portfolio
+Email: Osifalafiyin@gmail.com
+
